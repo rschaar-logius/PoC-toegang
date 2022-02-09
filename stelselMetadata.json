@@ -25,41 +25,14 @@
 "https://ca-idp-pre.logius.nl/oauth2/.well-known/openid-configuration"
 	},
 	{
-	    "iss": "https://test.digid.nl",
-	    "name": "DigiD",
-	    "fullname": "DigiD - test",
-	    "fullname+nl": "DigiD - test instantie",
-	    "fullname+en": "DigiD - test instance",
-	    "logo": "https://test.digid.nl/media/DigiD-logo.svg",
-	    "LoA": ["http://eidas.europa.eu/LoA/substantial",
-"http://eidas.europa.eu/LoA/high"],
-	    "SAML-metadata":
-"https://test.digid.nl/saml/metadata.xml",
-	    "OIDC-metadata":
-"https://test.digid.nl/.well-known/openid-configuration"
-	},
-	{
-	    "iss": "https://test.eidas.nl",
-	    "name": "eIDAS",
-	    "fullname": "eIDAS - Europe",
-	    "fullname+nl": "eIDAS - erkende Europese authenticatiemiddelen",
-	    "logo": "https://tyest.eidas.nl/logo.bmp",
-	    "LoA": ["http://eidas.europa.eu/LoA/substantial",
-"http://eidas.europa.eu/LoA/high"],
-	    "SAML-metadata":
-"https://test.eidas.nl/saml-metadata.xml",
-	    "OIDC-metadata":
-"https://test.eidas.nl/.well-known/openid-configuration"
-	},
-	{
-	    "iss": "https://my.id.nl",
-	    "name": "My ID",
-	    "fullname": "My ID - privaat middel",
-	    "logo": "https://my.id.nl/favicon.ico",
+	    "iss": "https://poc-idp.devcon.nl",
+	    "name": "DevCon",
+	    "fullname": "DevCon",
+	    "logo": "https://poc-idp.devcon.nl/favicon.ico",
 	    "LoA": ["http://eidas.europa.eu/LoA/substantial"],
-	    "SAML-metadata": "https://my.id.nl/metadata.xml",
+	    "SAML-metadata": "https://poc-idp.devcon.nl/metadata.xml",
 	    "OIDC-metadata":
-"http://my.id.nl/.well-known/openid-configuration"
+	    "http://poc-idp.devcon.nl/.well-known/openid-configuration"
 	}
     ],
     "MDs": [
