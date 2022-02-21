@@ -22,7 +22,7 @@
 	    "SAML-metadata":
 "https://ca-idp-pre.logius.nl/saml/metadata.xml",
 	    "OIDC-metadata":
-"https://ca-idp-pre.logius.nl/oauth2/.well-known/openid-configuration"
+"https://ca-idp-pre.logius.nl/oauth2/token/.well-known/openid-configuration"
 	},
 	{
 	    "iss": "https://poc-idp.devcon.nl",
