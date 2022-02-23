@@ -20,7 +20,7 @@
 	    "LoA": ["http://eidas.europa.eu/LoA/substantial",
 "http://eidas.europa.eu/LoA/high"],
 	    "SAML-metadata":
-"https://ca-idp-pre.logius.nl/saml/metadata.xml",
+"https://ca-idp-pre.logius.nl/identity/metadata/saml2",
 	    "OIDC-metadata":
 "https://ca-idp-pre.logius.nl/oauth2/token/.well-known/openid-configuration"
 	},
